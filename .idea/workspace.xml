@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e3452f4-5228-4b39-85f2-38ec1e50cf36" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hSRYQ9yIaU2SiAsCVOUu7JkA5q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ScreenshotViewer.SavePath" value="E:/" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="E:/" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e3452f4-5228-4b39-85f2-38ec1e50cf36" name="Default Changelist" comment="" />
+      <created>1600002554588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600002554588</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1600004207189">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1600004207189" />
+    <state width="1491" height="203" key="GridCell.Tab.0.bottom" timestamp="1600004888100">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1491" height="203" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1600004888100" />
+    <state width="1491" height="203" key="GridCell.Tab.0.center" timestamp="1600004888100">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1491" height="203" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1600004888100" />
+    <state width="1491" height="203" key="GridCell.Tab.0.left" timestamp="1600004888099">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1491" height="203" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1600004888099" />
+    <state width="1491" height="203" key="GridCell.Tab.0.right" timestamp="1600004888100">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1491" height="203" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1600004888100" />
+    <state x="206" y="0" key="ScreenshotViewer.Dimensions" timestamp="1600004211303">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="206" y="0" key="ScreenshotViewer.Dimensions/0.0.1536.826@0.0.1536.826" timestamp="1600004211303" />
+    <state x="431" y="147" key="search.everywhere.popup" timestamp="1600003320430">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="431" y="147" key="search.everywhere.popup/0.0.1536.826@0.0.1536.826" timestamp="1600003320430" />
+  </component>
+</project>
